@@ -1,0 +1,80 @@
+Sprint 1:
+
+GitHub Repository Utilization:
+Our primary focus lies on leveraging the GitHub repository for our project.
+We delved into the functionalities of projects, branches, and reflections, outlining their significance within the GitHub framework.
+Additionally, we explored Canvas, understanding its role in facilitating our submissions.
+
+Product Development Overview:
+We outlined the structure of our product, encompassing front-end, middle, and back-end development stages.
+Emphasizing a comprehensive approach, we aimed to deeply embed our unique identity into the product.
+
+Project Ideation:
+
+Brainstorming commenced as we sought potential project ideas for the semester.
+Each member was tasked with proposing features to incorporate into these concepts.
+
+Week 2 Meeting Highlights:
+
+Flexibility in Submission:
+A reminder was issued regarding the flexibility in submission deadlines, extending until the end of the sprint period.
+Understanding Agile Methodology:
+We delved into the foundational concepts of Agile methodology, tracing its roots back over 50 years.
+This included an overview of the 12 Agile principles and a revisit of the Agile manifesto.
+Further discussions revolved around Scrum and XP principles, alongside an exploration of user stories.
+
+
+
+
+Sprint 2:
+
+Configuration Management with GitHub:
+
+Our focus shifted towards configuration management, exploring its functionality within GitHub.
+We emphasized the utilization of main branches and site branches to streamline the merging process,
+ensuring a structured and organized approach to code and project management. Additionally, these branches
+served as repositories for project notes and pertinent information, enhancing project cohesion. A live demonstration
+by our professor elucidated the merging process, showcasing the seamless integration of work from different weeks.
+
+
+
+
+Sprint 3:
+
+Model-View-Controller (MVC) and Test-Driven Development (TDD):
+Our discussion centered around the Model-View-Controller architecture and the principles of Test-Driven Development.
+Exploring these concepts provided a foundational understanding of software development methodologies.
+
+Software Design Document:
+We delved into the creation of a comprehensive software design document, elucidating the necessary components and best practices.
+
+Documentation and Work Breakdown Structure (WBS):
+An emphasis was placed on crafting effective documentation and developing a Work Breakdown Structure (WBS) to facilitate project planning and execution.
+
+Quality Attributes:
+Further discussions revolved around quality attributes, ensuring a holistic approach to software development and project management.
+
+
+
+Sprint 4:
+
+Risk Mitigation:
+In Sprint 4, our class delved into risk management strategies, emphasizing the importance of identifying and mitigating potential risks associated with project activities.
+We discussed analyzing these risks from the perspective of our consumers to understand their impact and associated costs.
+
+Risk Factors:
+Specifically, we examined authorization, access, and authentication as key risk factors, recognizing their significance in ensuring the security and integrity of our project.
+
+Software Development Folders:
+Additionally, we explored the organization of software development folders, aiming to optimize the utilization of user stories within our project framework.
+This involved aligning our tasks with project objectives to enhance productivity and efficiency.
+
+
+
+Sprint 5:
+
+During our recent discussions, we focused on addressing bugs within our project, particularly emphasizing the process of reporting
+and resolving them as a development team. Additionally, we explored the role of DevOps in streamlining our development processes,
+highlighting specific software tools that can aid us in various stages of development.
+Moreover, we delved into the benefits of AWS services and shared insights into utilizing them effectively,
+including some practical tips and tricks to maximize their utility.
