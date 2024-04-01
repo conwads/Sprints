@@ -78,3 +78,31 @@ and resolving them as a development team. Additionally, we explored the role of 
 highlighting specific software tools that can aid us in various stages of development.
 Moreover, we delved into the benefits of AWS services and shared insights into utilizing them effectively,
 including some practical tips and tricks to maximize their utility.
+
+
+Sprint 6: 
+
+
+Overview:
+
+Commits: 22
+Files changed: 92
+Team Members: Merilan, Darcy, Slinker, Angela, Swayze, Andrew, Wadsworth, Conner, Welton, Bryan
+Details of Changes:
+Mar 26, 2024:
+
+Created Front End folder, Full Front End of App added, file java converted to kotlin.
+Mar 27, 2024:
+
+Updated colors and some strings.
+Revised formatting and java for EditAccountActivity and Android Manifest.
+Removed duplicate file Login.java.
+Completed Java updates for app demo page view.
+Fixed text attachment to parent.
+Added posthome.java, createpost.java, blackbox.xml, posthome.xml.
+Mar 30, 2024:
+
+Updated strings.xml.
+Made adjustments to LoginActivity and other files.
+Created .name file.
+Organized and cleaned up the page layout.
